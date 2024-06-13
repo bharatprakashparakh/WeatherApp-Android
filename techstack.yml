@@ -2,7 +2,7 @@ repo_name: bharatprakashparakh/WeatherApp-Android
 report_id: d04f6dacfd7c6cc5d7bf1e228e7425c7
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-13T17:10:02+00:00'
+timestamp: '2024-06-13T17:39:08+00:00'
 requested_by: bharatprakashparakh
 provider: github
 branch: master
@@ -30,8 +30,6 @@ tools:
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/app/build.gradle
   detection_source: app/build.gradle
-  last_updated_by: aniketjain8441
-  last_updated_on: 2022-08-23 12:50:38.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -52,8 +50,6 @@ tools:
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/.github/workflows/android.yml
   detection_source: ".github/workflows/android.yml"
-  last_updated_by: Aniket Jain
-  last_updated_on: 2023-01-22 09:11:31.000000000 Z
 - name: Gradle
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
@@ -65,8 +61,6 @@ tools:
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/app/build.gradle
   detection_source: app/build.gradle
-  last_updated_by: aniketjain8441
-  last_updated_on: 2022-08-12 11:55:48.000000000 Z
 - name: Android OS
   description: An open source mobile operating system by Google
   website_url: https://www.android.com
@@ -77,8 +71,6 @@ tools:
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/app/build.gradle
   detection_source: app/build.gradle
-  last_updated_by: aniketjain8441
-  last_updated_on: 2022-08-23 12:50:38.000000000 Z
 - name: Lottie
   description: Easily add high-quality animation to any native app (by Airbnb)
   website_url: http://airbnb.design/lottie/
@@ -91,8 +83,6 @@ tools:
   image_url: https://img.stackshare.io/service/6445/lottie.png
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/app/build.gradle
   detection_source: app/build.gradle
-  last_updated_by: Rajesh
-  last_updated_on: 2022-08-20 16:27:51.000000000 Z
 - name: junit:junit
   description: JUnit is a unit testing framework for Java
   version: 4.13.2
@@ -104,5 +94,3 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/bharatprakashparakh/WeatherApp-Android/blob/master/app/build.gradle
   detection_source: app/build.gradle
-  last_updated_by: aniketjain8441
-  last_updated_on: 2022-08-12 11:55:48.000000000 Z
