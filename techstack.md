@@ -121,7 +121,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[junit:junit](http://junit.org)|v4.13.2|08/12/22|aniketjain8441 |EPL-1.0|N/A|
+|[junit:junit](http://junit.org)|v4.13.2|N/A|N/A |EPL-1.0|N/A|
 
 <br/>
 <div align='center'>
